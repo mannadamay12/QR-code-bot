@@ -24,11 +24,11 @@ npm install
 #### Step 4:
 Run the bot
 ```
-npm start
+node index.js
 ```
 
 #### Step 5:
 Use the bot on discord by sending a message
 ```
-~generate some random text
+~generate [some random text]
 ```
