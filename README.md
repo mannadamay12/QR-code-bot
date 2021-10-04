@@ -3,11 +3,10 @@ A simple Discord bot that only generates QR Codes.
 
 ## USAGE
 This bot is not hosted so if you want to use it you have to do some setting up of your own.
-
+<i>I may host it on cloud though!</i>
 #### Step 1:
 Create a bot from the Discord Developer Portal and invite the bot into a server
 <br>
-<i>I may host it on cloud though!</i>
 
 #### Step 2:
 Create a `.env` file at the root of the project and put the following in it
